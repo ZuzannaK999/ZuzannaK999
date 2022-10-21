@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ZuzannaKap
 - 👀 I’m interested in robotics, AI and computational neuroscience.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently mastering Python and C++.
+- 📫 How to reach me linkedin.com/in/zuzanna-kapcia/
 
 <!---
 ZuzannaK999/ZuzannaK999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
